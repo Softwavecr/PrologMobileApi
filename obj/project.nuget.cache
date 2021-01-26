@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTwwGUnqnc+fBrcngW+bnDB6ohkKEAzfIVLb1WbSLSTssMsm8jy6flmD/Vz3eKjhHCg5m2ssFY2sBQF/37HT+Q==",
+  "success": true,
+  "projectFilePath": "/home/maixinh0/repos/prolog/PrologMobileApi/PrologMobileApi.csproj",
+  "expectedPackageFiles": [
+    "/home/maixinh0/.nuget/packages/aspnetcoreratelimit/3.2.2/aspnetcoreratelimit.3.2.2.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.9/microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.9/microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.9/microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/microsoft.extensions.options/3.1.9/microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/microsoft.extensions.primitives/3.1.9/microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/system.net.http.json/3.2.0-preview3.20175.8/system.net.http.json.3.2.0-preview3.20175.8.nupkg.sha512",
+    "/home/maixinh0/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
