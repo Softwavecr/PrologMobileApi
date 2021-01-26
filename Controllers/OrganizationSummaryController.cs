@@ -14,6 +14,8 @@ namespace PrologMobileApi.Controllers
     public class OrganizationSummaryController : ControllerBase
     {
         private int callCounter=0;
+        
+        //https://stackoverflow.com/questions/588524/return-unknown-generic-listt
         private async Task<List<T>> GetData<T>(string uri)
         {
             Console.WriteLine(uri+" . Call# "+ callCounter.ToString() );

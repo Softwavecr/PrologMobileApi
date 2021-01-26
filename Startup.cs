@@ -23,6 +23,8 @@ namespace PrologMobileApi
             services.AddMemoryCache();
 
             // load general configuration from appsettings.json
+            //https://verbitskiy.co/blog/api-rate-limiting-by-ip-in-aspnet-core/
+            //https://gist.github.com/changhuixu/a16d5a61465d6766fa7a70074ccc224e#file-startup-cs
             services.Configure<IpRateLimitOptions>(Configuration.GetSection("IpRateLimiting"));
 
             // inject counter and rules stores
