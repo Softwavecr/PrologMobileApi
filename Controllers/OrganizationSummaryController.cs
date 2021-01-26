@@ -31,6 +31,7 @@ namespace PrologMobileApi.Controllers
                 return dataSet;
         }
 
+        //https://stackoverflow.com/questions/25720977/return-list-from-async-await-method
         [HttpGet]        
         public async Task<IActionResult> Get()
         {                                                
